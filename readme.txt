@@ -1,6 +1,2 @@
-git is the best version control software
-git is a free software
-i am sad 
-we all need better
-3.1415926 pi
-a garbage for the world
+The Principle-of-Web-Search-2019 Class's Homework
+2019140257 付郁博
